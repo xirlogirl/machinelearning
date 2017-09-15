@@ -2,7 +2,6 @@
 
 ## Introduction to sklearn, pandas and a k-NN model
 
-In these files I will provide a quick overview of the concepts covered in this course. As Coursera does not want students to post code from the assignments etc. I will describe some of the techniques that were taught in the course with limited code examples.
 
 This week provided an introduction to scikit-learn, use of pandas and matplotlib for basic tasks.
 The lectures focussed on an example where a model was trained to classify fruit based on its height, width, mass and color.
